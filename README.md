@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrowThinky
-- 👀 I’m interested in cycling, coffee and programming. 
+- 🚴🏻‍♂ I’m interested in cycling, coffee and programming. 
 - 🌱 I’m currently writing my bachelor thesis in CS and am learning Eclipse plug-in development.
 
 
